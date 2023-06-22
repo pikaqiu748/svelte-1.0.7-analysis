@@ -6,7 +6,6 @@ function tabsToSpaces(str) {
   // /test/validator/properties-unexpected-b文件为例
 export default function getCodeFrame(source, line, column) {
   // properties-unexpected-b文件
-  console.log('column:', line)
   // 	source: <div></div>
   // <script>
   //         export default {
