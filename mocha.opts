@@ -1,0 +1,4 @@
+--require reify
+--recursive
+./**/__test__.js
+test/test.js
